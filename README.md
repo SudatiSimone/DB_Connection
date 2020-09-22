@@ -10,7 +10,7 @@ He could:
 5) Exit from the system
 
 <img src="Capture/cap1.JPG"
-     style="float: left; margin-right: 8px;" />
+     style="float: left; margin-right: 28px;" />
      
 
 ## Use the database
