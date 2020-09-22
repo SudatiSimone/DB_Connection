@@ -1,23 +1,16 @@
-# DB connection sqlite3 with python 
+# Database connection with Sqlite3 
 
+## Introduction
+An application where the admin manages the account on db.
+He could:
+1) Add a new account
+2) Delete an account
+3) List all the accounts
+4) Update the password of account
+5) Exit from the system
 
+## Use the database
+Copy the class_DBConnect.py to have your Database and import it in your file as in my example main. 
 
-## Setup and application run 
-
-Installation
-~~~python
-clone repository
-~~~
-
-Application run 
-
-~~~python
-run main file 
-~~~
-
-Too see and manage DB
-
-~~~python
-run Database Browser for sqlite
-~~~
-
+## Visualize the database
+To visualize the database I suggest Database Browser for sqlite
