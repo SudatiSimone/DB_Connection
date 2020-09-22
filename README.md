@@ -18,6 +18,6 @@ run main file
 Too see and manage DB
 
 ~~~python
-run DB Browser for sqlite
+run Database Browser for sqlite
 ~~~
 
