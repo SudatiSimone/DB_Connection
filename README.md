@@ -1,8 +1,8 @@
-#DB connection sqlite3 with python 
+## DB connection sqlite3 with python 
 
 
 
-## Setup and application run 
+# Setup and application run 
 
 Installation
 ~~~python
@@ -18,6 +18,6 @@ run main file
 Too see and manage DB
 
 ~~~python
-Run DB Browser for sqlite
+run DB Browser for sqlite
 ~~~
 
