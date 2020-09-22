@@ -1,8 +1,8 @@
-## DB connection sqlite3 with python 
+# DB connection sqlite3 with python 
 
 
 
-# Setup and application run 
+## Setup and application run 
 
 Installation
 ~~~python
