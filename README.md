@@ -10,7 +10,7 @@ He could:
 5) Exit from the system
 
 <img src="Capture/cap1.JPG"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 8px;" />
      
 
 ## Use the database
@@ -20,5 +20,5 @@ Copy the class_DBConnect.py to have your Database and import it in your file as 
 To visualize the database I suggest Database Browser for sqlite
 
 <img src="Capture/cap2.JPG"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 8px;" />
      
